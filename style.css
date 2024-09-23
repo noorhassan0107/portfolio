@@ -954,3 +954,52 @@ body
         font-size: 14px;
     }
 }
+
+
+/* vucyctr */
+
+
+/* For tablets and larger mobile devices */
+@media (max-width: 768px) {
+    .nts {
+        margin-left: 200px;
+    }
+
+    .nts1 {
+        margin-left: 180px;
+    }
+
+    .nts2 {
+        margin-left: 160px;
+    }
+}
+
+/* For mobile devices */
+@media (max-width: 480px) {
+    .nts {
+        margin-left: 120px;
+    }
+
+    .nts1 {
+        margin-left: 100px;
+    }
+
+    .nts2 {
+        margin-left: 80px;
+    }
+}
+
+/* For very small screens (under 320px) */
+@media (max-width: 320px) {
+    .nts {
+        margin-left: 80px;
+    }
+
+    .nts1 {
+        margin-left: 70px;
+    }
+
+    .nts2 {
+        margin-left: 50px;
+    }
+}
