@@ -977,29 +977,29 @@ body
 /* For mobile devices */
 @media (max-width: 480px) {
     .nts {
-        margin-left: 207px;
+        margin-left: 210px;
     }
 
     .nts1 {
-        margin-left: 175px;
+        margin-left: 180px;
     }
 
     .nts2 {
-        margin-left:147px;
+        margin-left:150px;
     }
 }
 
 /* For very small screens (under 320px) */
 @media (max-width: 320px) {
     .nts {
-        margin-left: 207px;
+        margin-left: 210px;
     }
 
     .nts1 {
-        margin-left: 175px;
+        margin-left: 180px;
     }
 
     .nts2 {
-        margin-left:147px;
+        margin-left: 150px;
     }
 }
