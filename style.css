@@ -962,44 +962,44 @@ body
 /* For tablets and larger mobile devices */
 @media (max-width: 768px) {
     .nts {
-        margin-left: 280px;
+        margin-left: 240px;
     }
 
     .nts1 {
-        margin-left: 260px;
+        margin-left: 220px;
     }
 
     .nts2 {
-        margin-left: 240px;
+        margin-left: 200px;
     }
 }
 
 /* For mobile devices */
 @media (max-width: 480px) {
     .nts {
-        margin-left: 280px;
+        margin-left: 240px;
     }
 
     .nts1 {
-        margin-left: 260px;
+        margin-left: 220px;
     }
 
     .nts2 {
-        margin-left:240px;
+        margin-left:200px;
     }
 }
 
 /* For very small screens (under 320px) */
 @media (max-width: 320px) {
     .nts {
-        margin-left: 280px;
+        margin-left: 240px;
     }
 
     .nts1 {
-        margin-left: 260px;
+        margin-left: 220px;
     }
 
     .nts2 {
-        margin-left: 240px;
+        margin-left: 200px;
     }
 }
