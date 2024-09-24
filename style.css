@@ -962,44 +962,44 @@ body
 /* For tablets and larger mobile devices */
 @media (max-width: 768px) {
     .nts {
-        margin-left: 300px;
-    }
-
-    .nts1 {
         margin-left: 280px;
     }
 
-    .nts2 {
+    .nts1 {
         margin-left: 260px;
+    }
+
+    .nts2 {
+        margin-left: 240px;
     }
 }
 
 /* For mobile devices */
 @media (max-width: 480px) {
     .nts {
-        margin-left: 300px;
-    }
-
-    .nts1 {
         margin-left: 280px;
     }
 
+    .nts1 {
+        margin-left: 260px;
+    }
+
     .nts2 {
-        margin-left:2160px;
+        margin-left:240px;
     }
 }
 
 /* For very small screens (under 320px) */
 @media (max-width: 320px) {
     .nts {
-        margin-left: 300px;
-    }
-
-    .nts1 {
         margin-left: 280px;
     }
 
-    .nts2 {
+    .nts1 {
         margin-left: 260px;
+    }
+
+    .nts2 {
+        margin-left: 240px;
     }
 }
