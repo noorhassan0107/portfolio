@@ -962,11 +962,11 @@ body
 /* For tablets and larger mobile devices */
 @media (max-width: 768px) {
     .nts {
-        margin-left: 215px;
+        margin-left: 200px;
     }
 
     .nts1 {
-        margin-left: 188px;
+        margin-left: 180px;
     }
 
     .nts2 {
@@ -977,30 +977,29 @@ body
 /* For mobile devices */
 @media (max-width: 480px) {
     .nts {
-        margin-left: 215px;
+        margin-left: 120px;
     }
 
     .nts1 {
-        margin-left: 188px;
+        margin-left: 100px;
     }
 
     .nts2 {
-        margin-left: 160px;
+        margin-left: 80px;
     }
 }
-
 
 /* For very small screens (under 320px) */
 @media (max-width: 320px) {
     .nts {
-        margin-left: 215px;
+        margin-left: 80px;
     }
 
     .nts1 {
-        margin-left: 188px;
+        margin-left: 70px;
     }
 
     .nts2 {
-        margin-left: 160px;
+        margin-left: 50px;
     }
 }
