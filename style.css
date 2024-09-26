@@ -1153,7 +1153,8 @@ body
     }
     .about-tex .btn-box{
         margin-top: 20px;
-        margin-left: 80px;
+        margin-left: 60px;
+        gap: 10px;
     }
 }
 
@@ -1173,7 +1174,7 @@ body
     }
     .about-tex .btn-box{
         margin-top: 15px;
-        margin-left: 40px;
-        font-size: 14px;
+        margin-left: 350px;
+        gap: 5px;
     }
 }
