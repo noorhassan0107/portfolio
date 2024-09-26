@@ -1151,7 +1151,7 @@ body
     .about-text p {
         margin-left: 130px;
     }
-    .about-tex .btn-box{
+    .about-text.btn-box{
         margin-top: 20px;
         margin-left: 80px;
         gap: 10px;
@@ -1172,7 +1172,7 @@ body
     .about-text p {
         margin-left: 80px;
     }
-    .about-tex .btn-box{
+    .about-text .btn-box{
         margin-top: 15px;
         margin-left: 35px;
         gap: 5px;
