@@ -1140,20 +1140,20 @@ body
 /* For mobile devices */
 @media (max-width: 480px) {
     .about-text h2{
-        margin-left: 80px;
+        margin-left: 130px;
     }
     .about-text h2 span {
         gap: 15px;
     }
     .about-text h4 {
-        margin-left: 80px;
+        margin-left: 130px;
     }
     .about-text p {
-        margin-left: 80px;
+        margin-left: 130px;
     }
     .about-tex .btn-box{
         margin-top: 20px;
-        margin-left: 60px;
+        margin-left: 80px;
         gap: 10px;
     }
 }
@@ -1161,20 +1161,20 @@ body
 /* For very small screens (under 320px) */
 @media (max-width: 320px) {
     .about-text h2{
-        margin-left: 60px;
+        margin-left: 80px;
     }
     .about-text h2 span {
         gap: 10px;
     }
     .about-text h4 {
-        margin-left: 60px;
+        margin-left: 80px;
     }
     .about-text p {
-        margin-left: 60px;
+        margin-left: 80px;
     }
     .about-tex .btn-box{
         margin-top: 15px;
-        margin-left: 350px;
+        margin-left: 35px;
         gap: 5px;
     }
 }
