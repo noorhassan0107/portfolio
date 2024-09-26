@@ -1113,3 +1113,66 @@ body
         padding: 6px 10px;
     }
 }
+
+/* lknbjlbj */
+
+/* For tablets and larger mobile devices */
+@media (max-width: 768px) {
+    .about-text h2{
+        margin-left: 145px;
+    }
+    .about-text h2 span {
+        gap: 25px;
+    }
+    .about-text h4 {
+        margin-left: 145px;
+    }
+    .about-text p {
+        margin-left: 145px;
+    }
+    .about-text .btn-box{
+        margin-top: 20px;
+        margin-left: 145px;
+    }
+}
+
+
+/* For mobile devices */
+@media (max-width: 480px) {
+    .about-text h2{
+        margin-left: 80px;
+    }
+    .about-text h2 span {
+        gap: 15px;
+    }
+    .about-text h4 {
+        margin-left: 80px;
+    }
+    .about-text p {
+        margin-left: 80px;
+    }
+    .about-tex .btn-box{
+        margin-top: 20px;
+        margin-left: 80px;
+    }
+}
+
+/* For very small screens (under 320px) */
+@media (max-width: 320px) {
+    .about-text h2{
+        margin-left: 60px;
+    }
+    .about-text h2 span {
+        gap: 10px;
+    }
+    .about-text h4 {
+        margin-left: 60px;
+    }
+    .about-text p {
+        margin-left: 60px;
+    }
+    .about-tex .btn-box{
+        margin-top: 15px;
+        margin-left: 60px;
+    }
+}
